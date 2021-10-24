@@ -1,2 +1,2 @@
 # AWS-machine-learning-foundations
-Special notes of AWS machine learning foundations that ease coding
+Special notes of AWS Machine Learning Foundations Course that will ease coding
